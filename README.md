@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vazeta
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning informatic engineering
-- 📫 You can reach me via email, discord and instagram
+- 📫 You can reach me via LinkedIn, Email, Discord and Instagram
 - 📘 I speak Portuguese and English fluently
