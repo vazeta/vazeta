@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
+<h1 align="center">hey there 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vazeta/" target="_blank">
@@ -18,7 +14,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -69,10 +64,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vazeta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
