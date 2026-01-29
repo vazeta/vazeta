@@ -1,64 +1,56 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there! </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vazeta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/702110989310492743" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/vazeta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
   <a href="mailto:joao.vaz1810@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
   </a>
 </div>
 
-###
+---
+
+### About Me
+
+- I am a Master's student in Artificial Intelligence and Data Science.  
+- I am interested in Machine Learning, Deep Learning and Data Analysis.
+- My goal is to work and contribute in the field of Artificial Intelligence and Data Science.
+
+---
+
+<div align="center">
+  <!-- Core Data Science & AI -->
 
 
-###
+  <!-- Data & AI Concepts -->
+   <img src="https://img.shields.io/badge/Machine%20Learning-00599C?logo=ai&logoColor=white&style=for-the-badge" height="25" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-2E8B57?logo=ai&logoColor=white&style=for-the-badge" height="25" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-4682B4?logo=databricks&logoColor=white&style=for-the-badge" height="25" alt="Feature Engineering"/>
+  <img src="https://img.shields.io/badge/Feature%20Selection-6A5ACD?logo=ai&logoColor=white&style=for-the-badge" height="25" alt="Feature Selection"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4C8CB5?logo=ai&logoColor=white&style=for-the-badge" height="25" alt="Data Analysis"/>
 
-<h3 align="left">👩‍💻  About Me</h3>
+  <br/><br/>
 
-###
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="25" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CB5?logo=seaborn&logoColor=white&style=for-the-badge" height="25" alt="Seaborn"/>
 
-<p align="left">I'm João Vaz :)<br>From Portugal 🇵🇹<br>Interested about technology 👩‍💻 <br>Feel free to reach out!</p>
+  <br/><br/>
 
-###
+  <!-- Languages & Environment -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" height="25" alt="MATLAB"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="25" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="25" alt="NumPy"/>
 
-<h3 align="left">🛠 Language and tools</h3>
+ 
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <br/><br/>
+   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="25" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="GitHub"/>
 </div>
-
-###
-
 
